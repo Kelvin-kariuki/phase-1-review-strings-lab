@@ -7,3 +7,5 @@ const excitedWelcomeMessage = `${welcomeMessage.toLocaleUpperCase()}`;
 
 const shortGreeting = `${welcomeMessage.slice(0,7)}, ${currentUser.slice(0,1)}!`
 
+
+
